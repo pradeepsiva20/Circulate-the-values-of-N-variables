@@ -31,7 +31,8 @@ def circulate():
 ```
 
 ## Output:
-![output](/exp.png)
-![output](/got.png)
+![1b2](https://user-images.githubusercontent.com/120539823/214556435-2e44bce9-1ec4-4ae1-9d6e-76f06f7fc248.png)
+![1b22](https://user-images.githubusercontent.com/120539823/214556454-cfab57ac-1335-4334-a9d9-edc6403bab28.png)
+
 ## Result:
 Thus the python program to circulate the n variables using function concepr is obtained.
